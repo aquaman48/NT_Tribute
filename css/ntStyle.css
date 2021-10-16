@@ -1,0 +1,25 @@
+img {
+  position: relative;
+  height: 25vw;
+  width: auto;
+  margin-right: 60px;
+}
+blockquote {
+  padding-top: 6rem;
+}
+
+.introText {
+  padding-top: 6rem;
+  padding-left: 3rem;
+  margin-left: 2rem;
+
+  font-family: "IM Fell English SC", serif;
+}
+
+.container {
+  padding-bottom: 3rem;
+}
+
+.navTxt {
+  font-family: "IM Fell English SC", serif;
+}
